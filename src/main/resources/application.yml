@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: org.mariadb.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/carbon
+    username: carbon
+    password: thecakeisalie
